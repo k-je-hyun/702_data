@@ -1,0 +1,2 @@
+아두이노 ESP32 board 기반 AM1008W 연결 코드
+측정 항목 : Temp / Humi / VOCs / PM1.0 / PM2.5 / PM10 / CO2 
