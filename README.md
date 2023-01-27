@@ -74,5 +74,5 @@ pm2008 scd30
 
 01/27 10:18 - 환기장치 끔 / 공기청정기 끔 
 
-
+※ 교내 Wi-Fi 서비스 일시중단 안내 [2023.01.31.(화) 6:00 PM ~ 9:00 PM] (Notice of Wi-Fi Srvice Temporary Stop Due to Check)
 
